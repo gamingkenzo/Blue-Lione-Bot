@@ -34,29 +34,29 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
-global.ytname = "YT: Nipuna-apps" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94763867158'] //ur owner number
+global.ownername = "𝙰𝙱𝙳𝙷𝚄𝙻💞 " //ur owner name
+global.ytname = "YT: 𝙺𝙴𝙽𝚉𝙾 𝙼𝙾𝙳𝚉 " //ur yt chanel name
+global.socialm = "GitHub: 𝙺𝙴𝙽𝚉𝙾 𝙼𝙾𝙳𝚉" //ur github or insta name
+global.location = "𝚂𝚁𝙸 𝙻𝙽𝙺𝙰, 𝙼𝙰𝚃𝙰𝙻𝙴, 𝚄𝙺𝚄𝚆𝙴𝙻𝙰" //ur location
 
 //bot bomdy 
-global.owner = ['714188730']
-global.ownertag = '714188730' //ur tag number
-global.botname = '⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜' //ur bot name
+global.owner = ['763867158']
+global.ownertag = '763867158' //ur tag number
+global.botname = '❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱' //ur bot name
 global.linkz = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Nipuna-apps/Blue-Lione-Bot.git" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot.git' //script link
-global.reactmoji = "❤" //ur menu react emoji
-global.themeemoji = "🎸" //ur theme emoji
-global.packname = "⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "NIPUNA" //ur sticker watermark author
+global.reactmoji = "" //ur menu react emoji
+global.themeemoji = "" //ur theme emoji
+global.packname = "❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "𝙰𝙱𝙳𝙷𝚄𝙻💞" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFilesync("./i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("./i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg") //ur logo pic
+global.err4r = fs.readFileSync("./i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg") //ur error pic
+global.thumb = fs.readFileSync("./i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg") //ur thumb pic
 
 //damtabase
 global.premium = ['714188730'] //ur premium numbers
@@ -74,7 +74,7 @@ global.nttoxic = []
 global.ntnsfw = []
 global.ntvirtex = []
 global.rkyt = []
-global.wlcm = []
+global.wlcm = [false]
 global.gcrevoke = []
 global.autorep = []
 global.ntilink = []
@@ -83,7 +83,7 @@ global.ntilink = []
 global.sessionName = 'session'
 global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⚜'
+global.sp = ''
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin! 🇱🇰',
