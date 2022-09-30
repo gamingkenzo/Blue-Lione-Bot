@@ -3,10 +3,10 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 kavee Bot Inc. Dark nero Bot MD 
+//© 2022 Kenzo mod inc. ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
-// my owenr kaveesha
+// my owenr 𝙰𝙱𝙳𝙷𝚄𝙻
 //════════════════════════════//
 //If you recode and uploading on your channel
 //or copy pasting the codes in ur script, 
@@ -176,9 +176,9 @@ Time ⏰ =  ${xtime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
 let buttonMessage = {
-    image: { url: 'https://i.ibb.co/hXtGkzj/welcome-poster-spectrum-brush-strokes-white-background-colorful-gradient-brush-design-vector-paper-i.jpg'},
+    image: { url: 'https://i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg'},
 caption: xeonbody,
-footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
 buttons,
 headerType: 4
 }
@@ -203,9 +203,9 @@ Time ⏰ =  ${xeontime} `
     {buttonId: `menu`, buttonText: {displayText: '♞ MENU ♞'}, type: 1}
     ]
     let buttonMessage = {
-        image: { url: 'https://i.ibb.co/gytytkM/images.jpg'},
+        image: { url: 'https://i.ibb.co/gdXpM3v://vm.tiktok.com/ZSRQqeB6/images.jpg'},
     caption: xeonbody,
-    footer: `⚜𝓑𝓵𝓾𝓮 𝓛𝓲𝓸𝓷𝓮⚜`,
+    footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
     buttons,
     headerType: 4
     }
